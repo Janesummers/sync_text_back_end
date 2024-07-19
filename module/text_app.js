@@ -44,6 +44,7 @@ app.get('*', (req, resp) => {
   } else {
     resp.status(404).end('什么也没有')
   }
+})
 
 app.all('/:name', (req, resp) => {
   console.log('读')
