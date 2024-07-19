@@ -9,6 +9,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'static')));
 app.disable('x-powered-by');
 
+// nohup node ./module/text_app.js &!
+
 app.all('*', (req, resp, next) => {
   resp.header('Access-Control-Allow-Origin', '*');
   resp.header('Access-Control-Allow-Headers', '*');
@@ -31,6 +33,17 @@ app.post('/write', (req, resp) => {
 })
 
 const readRecord = require('./readRecord');
+
+app.get('*', (req, resp) => {
+  console.log('req', req.params[0])
+  resp.writeHead(200, { "Content-Type": "text/plain;charset=utf-8" });
+  if (/[\.js|\.css|\.json|\.out]$/.test(req.params[0])) {
+    const file = req.params[0].replace(/\/(.*)/, '$1')
+    const result = readFileFn(file)
+    resp.end(result)
+  } else {
+    resp.status(404).end('什么也没有')
+  }
 
 app.all('/:name', (req, resp) => {
   console.log('读')
