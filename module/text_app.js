@@ -2,24 +2,24 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const path = require('path');
-const cookieParser = require('cookie-parser');
+// const cookieParser = require('cookie-parser');
 
 app.use(bodyParser.urlencoded({extended: false}));
-app.use(cookieParser());
+// app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'static')));
 app.disable('x-powered-by');
 
 // nohup node ./module/text_app.js &!
 
-app.all('*', (req, resp, next) => {
-  resp.header('Access-Control-Allow-Origin', '*');
-  resp.header('Access-Control-Allow-Headers', '*');
-  resp.header('Access-Control-Allow-Methods', '*');
-  if (req.method.toLowerCase() === 'options')
-    resp.send(200);
-  else
-    next();
-});
+// app.all('*', (req, resp, next) => {
+//   resp.header('Access-Control-Allow-Origin', '*');
+//   resp.header('Access-Control-Allow-Headers', '*');
+//   resp.header('Access-Control-Allow-Methods', '*');
+//   if (req.method.toLowerCase() === 'options')
+//     resp.send(200);
+//   else
+//     next();
+// });
 
 const writeRecord = require('./writeRecord');
 
