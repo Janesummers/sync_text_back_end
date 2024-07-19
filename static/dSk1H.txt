@@ -1,0 +1,62 @@
+https://miniapp.open.taobao.com/docV3.htm?docId=117167&docType=1&source=search
+
+https://miniapp.open.taobao.com/docV3.htm?docId=117149&docType=1
+
+https://miniapp.open.taobao.com/doc.htm?docId=117163&docType=1
+
+https://opendocs.alipay.com/apis
+
+https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%A3%81%E7%BA%B8&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2915512436,1541993188&os=1244264036,2514074300&simid=3486450526,369110963&pn=7&rn=1&di=238810&ln=3792&fr=&fmq=1594975649850_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&oriquery=%E5%A3%81%E7%BA%B8&objurl=http%3A%2F%2Fb.zol-img.com.cn%2Fsoft%2F5%2F493%2FceNcIqcSrEEgE.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined
+
+https://open.taobao.com/ability?spm=a219a.7386653.1.13.3b89286cxyo5pB#/  阿里刚上线的WEB
+
+https://blog.csdn.net/weixin_41837346/article/details/104166049?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159581303919724845015221%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159581303919724845015221&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v3~rank_business_v1-1-104166049.ecpm_v3_rank_business_v1&utm_term=%E6%B7%98%E5%AE%9D%E5%B0%8F%E7%A8%8B%E5%BA%8F&spm=1018.2118.3001.4187
+
+https://blog.csdn.net/weixin_39786582/article/details/106493343?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159581303919724845015221%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159581303919724845015221&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-3-106493343.ecpm_v3_rank_business_v1&utm_term=%E6%B7%98%E5%AE%9D%E5%B0%8F%E7%A8%8B%E5%BA%8F&spm=1018.2118.3001.4187
+
+https://segmentfault.com/a/1190000023402628
+
+https://pictureknow.com/extensions
+
+https://segmentfault.com/a/1190000023324628
+
+https://segmentfault.com/a/1190000023396019
+
+https://segmentfault.com/a/1190000023324135
+
+https://segmentfault.com/a/1190000023335827
+
+https://www.cnblogs.com/tarzen213/p/13030920.html
+
+https://blog.csdn.net/engineer520/article/details/82714696?utm_source=blogxgwz7
+
+https://segmentfault.com/a/1190000022393294
+
+https://segmentfault.com/a/1190000019757294
+
+https://www.jackpu.com/wei-xin-xiao-cheng-xu-gua-pei-iphone-11-pro/
+
+https://blog.csdn.net/u013719138/article/details/89888908?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~first_rank_v2~rank_v25-2-89888908.nonecase&utm_term=git%20%E9%85%8D%E7%BD%AE%E5%B1%80%E9%83%A8%E7%94%A8%E6%88%B7
+
+链接模板
+https://m.duanqu.com/?page=pages%2Findex%2Findex%3Fopenid%3D111%26actInfoID%3D{活动id}&_ariver_appid=3000000026827083
+
+组件内跳转
+let parent = my.parent("pages/index/index");
+parent.routeTo("my");
+
+入会状态
+my.tb.checkShopFavoredStatus({
+        id: "511473698",
+        success: (res) => {
+          console.log(res);
+          
+        },
+        fail: (err) => {
+          console.log(err);
+          
+        }
+      })
+
+
+
