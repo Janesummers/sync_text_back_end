@@ -21,7 +21,7 @@ app.all('*', (req, resp, next) => {
 
 const writeRecord = require('./writeRecord');
 
-app.get('/', (req, resp) => {
+app.all('/', (req, resp) => {
   console.log('首次写')
   writeRecord.write(req, resp);
 })
@@ -32,7 +32,7 @@ app.post('/write', (req, resp) => {
 
 const readRecord = require('./readRecord');
 
-app.get('/:name', (req, resp) => {
+app.all('/:name', (req, resp) => {
   console.log('读')
   readRecord.read(req, resp);
 })
