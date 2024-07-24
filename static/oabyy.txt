@@ -25,5 +25,7 @@ magnet:?xt=urn:btih:9adc6e52958527c738543302b8896bf50928dd96&dn=[javdb.com]ecb-1
 
 magnet:?xt=urn:btih:190be5acb8a760721a4b17daa0ca56c4796f8e05&dn=[javdb.com]SONE-229
 
+magnet:?xt=urn:btih:652fdb99a73bb766fd8b9e8425c17a18c672f808&dn=[javdb.com]SCOP-844
 
+magnet:?xt=urn:btih:06e3b36f1cf45b7fe9f2aec9b7a8cff8db81b68f&dn=[javdb.com]AGMX-189
 
