@@ -1,4 +1,10 @@
 magnet:?xt=urn:btih:42036a57b109600212bf706f8b65de2eede720a7&dn=[javdb.com]stars-230-C.torrent
 
 
+magnet:?xt=urn:btih:c604f8636172e9d9ce4205e7dee0e1a40d60ca27&dn=[javdb.com]JUQ-764-C.torrent
+magnet:?xt=urn:btih:a8111ca62a2de527bb94bcdb938e69613b7a32f3&dn=[javdb.com]JUQ-662-C.torrent
+magnet:?xt=urn:btih:df4a952b5dbcbcbf8b9a4b39004e9328df916a0c&dn=[javdb.com]JUQ-591-C.torrent
+magnet:?xt=urn:btih:b13515fb26f8db4079d2a2a8f78641ee551cef31&dn=[javdb.com]JUQ-285-C.torrent
+magnet:?xt=urn:btih:ce445a39def1a01e5eb3df97ef125f1bbc75463d&dn=[javdb.com]sgki-027.torrent
+magnet:?xt=urn:btih:ca9cb834d37351b6f83a22e1812979db9c276d75&dn=[javdb.com]DNJR-075
 
