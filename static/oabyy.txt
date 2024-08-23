@@ -2,13 +2,3 @@ magnet:?xt=urn:btih:42036a57b109600212bf706f8b65de2eede720a7&dn=[javdb.com]stars
 
 
 
-magnet:?xt=urn:btih:80071fbddf3705c020075f0cebacdcce2a37d39a&dn=[javdb.com]STARS-951-C.torrent
-
-
-
-magnet:?xt=urn:btih:b4caafb9ea997cf181c2224adf88a14c7483deb8&dn=[javdb.com]T-28621
-magnet:?xt=urn:btih:1b5684c9d4f528ee69066d049e14b23591905d89&dn=[javdb.com]SSHN-013
-magnet:?xt=urn:btih:2d4d01d819aa3272367658c6997ff7462c20b08c&dn=[javdb.com]STARS-879
-magnet:?xt=urn:btih:b26074e437be7de3f57ee30724c02da207f56a26&dn=[javdb.com]stars-947.torrent
-magnet:?xt=urn:btih:40019d5dc0c81b0cc64b016938ecfda82142a6f3&dn=[javdb.com]STARS-430
-magnet:?xt=urn:btih:823707841907e6ba9f4a32c796c32900295f9b81&dn=[javdb.com]stars-230.torrent
