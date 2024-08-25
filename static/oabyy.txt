@@ -1,15 +1,5 @@
-magnet:?xt=urn:btih:d6250f0057044a0114b54106af61209efabd9066&dn=[javdb.com]DASS-424-C.torrent
-
-magnet:?xt=urn:btih:3df14441534c1a11ae8306b7ba826f045f38c273&dn=[javdb.com]MKMP-528-C.torrent
-
-magnet:?xt=urn:btih:139262537bff934c4ec65d953b94db4a0a7f6793&dn=[javdb.com]nkkd-303.torrent
-
-magnet:?xt=urn:btih:f548f92edc37e3c60367b8eb6cadbfcd467016bf&dn=[javdb.com]soe-146-C.torrent
-
-magnet:?xt=urn:btih:000333b4f48c8e55b5ff5d033c56c6f72823e6c2&dn=[javdb.com]ssis-200-C.torrent
-
-magnet:?xt=urn:btih:52a7009ddbbf0b90e5670e24ab9d5b1e20e8f47d&dn=[javdb.com]259LUXU-1508
+magnet:?xt=urn:btih:42036a57b109600212bf706f8b65de2eede720a7&dn=[javdb.com]stars-230-C.torrent
 
 
-
-
+magnet:?xt=urn:btih:839866e729314f65c31da7b6ca0ddf18c02068db&dn=[javdb.com]JUFE-512
+magnet:?xt=urn:btih:7a0350d8210a2d6dcf6c483aeb68a7efd886f4af&dn=[javdb.com]JUFE-537-C.torrent
