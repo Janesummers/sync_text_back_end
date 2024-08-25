@@ -22,6 +22,16 @@ let write = (req, resp) => {
   // resp.redirect(302, `/${filename}`);
 }
 
+let create = (req, resp) => {
+  let files = fs.readdirSync(path.join(__dirname, '../static'));
+  let filename = `${randomName()}.txt`;
+  while (files.includes(filename)) {
+    filename = `${randomName()}.txt`;
+  }
+  fs.writeFileSync(path.join(__dirname, `../static/${filename}`), '');
+  resp.json(msgResult.msg(filename.match(/.+(?=\.)/)[0]));
+}
+
 var randomName = () => {
   let name = '';
   let randomData = 'asdfghjklzxcvbnmqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP1234567890'.split('');
@@ -35,5 +45,6 @@ var randomName = () => {
 }
 
 module.exports = {
-  write
+  write,
+  create
 }

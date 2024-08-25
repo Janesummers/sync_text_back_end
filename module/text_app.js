@@ -23,9 +23,9 @@ app.all('*', (req, resp, next) => {
 
 const writeRecord = require('./writeRecord');
 
-app.get('/', (req, resp) => {
+app.get('/create', (req, resp) => {
   console.log('首次写')
-  writeRecord.write(req, resp);
+  writeRecord.create(req, resp);
 })
 
 app.post('/write', (req, resp) => {
