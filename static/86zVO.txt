@@ -1,2 +1,34 @@
 github无法提交挂代理：git config --global http.proxy 127.0.0.1:7890
 公司git使用恢复代理：git config --global --unset http.proxy
+
+
+<!-- #!/bin/bash
+# 将执行结果追加到日志文件
+git add .
+git commit -m "更新文档"
+git pull >> git.log
+# 为方便查看，追加一行日期
+date >> git.log
+# 同样，追加分割线
+echo "==========" >> git.log
+
+* * * * * /home/janesummer/scriptingTools/autoCommit.sh >> /home/janesummer/scriptingTools/git.log
+
+
+0 0 0/2 * * ? ~/cleanCache.sh
+
+0 */2 * * * ~/cleanCache.sh
+
+0 */2 * * * ~/cleanCache.sh -->
+
+<!-- #!/bin/bash
+# 将执行结果追加到日志文件
+cd /home/janesummer/scriptingTools
+echo "准备执行" >> git.log
+git add .
+git commit -m "自动更新文档"
+git push >> git.log
+# 为方便查看，追加一行日期
+date >> git.log
+# 同样，追加分割线
+echo "==========" >> git.log -->
