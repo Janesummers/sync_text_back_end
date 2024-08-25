@@ -1,2 +1,5 @@
 magnet:?xt=urn:btih:42036a57b109600212bf706f8b65de2eede720a7&dn=[javdb.com]stars-230-C.torrent
 
+
+magnet:?xt=urn:btih:839866e729314f65c31da7b6ca0ddf18c02068db&dn=[javdb.com]JUFE-512
+magnet:?xt=urn:btih:7a0350d8210a2d6dcf6c483aeb68a7efd886f4af&dn=[javdb.com]JUFE-537-C.torrent
