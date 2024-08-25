@@ -32,3 +32,8 @@ git push >> git.log
 date >> git.log
 # 同样，追加分割线
 echo "==========" >> git.log -->
+
+
+路由器vpn fancyss - 科学上网离线安装包
+https://github.com/hq450/fancyss_history_package
+
