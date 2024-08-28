@@ -10,3 +10,8 @@ magnet:?xt=urn:btih:df127f4fcfa7cd26935e2d7df443b3188a695676&dn=[javdb.com]dasd-
 magnet:?xt=urn:btih:0042e46e1a6f7f762f46bc5f39c890d3df8a8e06&dn=[javdb.com]mird-198.torrent
 magnet:?xt=urn:btih:3a639d15aff553261a7be951be7d4e90634ca5c9&dn=[javdb.com]gvh-167.torrent
 magnet:?xt=urn:btih:84bb623e44f5653629549ff3a6b6227c78d97279&dn=[javdb.com]JUL-043-C.torrent
+magnet:?xt=urn:btih:39fa0c84580aa00a8df2f1a73c7a9730bd18233a&dn=[javdb.com]hjbb-190.torrent
+magnet:?xt=urn:btih:699be60864c23327c6089c53c4d44de4123dc486&dn=[javdb.com]hjmo-654.torrent
+magnet:?xt=urn:btih:609ca847d7844842ca99d48c37a191416a52024d&dn=[javdb.com]HJMO-648
+magnet:?xt=urn:btih:ca63ec50cf192dbd151633f67d27f93f458d50c8&dn=[javdb.com][Thz.la]hunta-360
+magnet:?xt=urn:btih:b9b1662265a4847d5644f8c5d026cddb79303426&dn=[javdb.com][Thz.la]hunta-364
