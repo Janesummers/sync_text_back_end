@@ -15,3 +15,5 @@ magnet:?xt=urn:btih:699be60864c23327c6089c53c4d44de4123dc486&dn=[javdb.com]hjmo-
 magnet:?xt=urn:btih:609ca847d7844842ca99d48c37a191416a52024d&dn=[javdb.com]HJMO-648
 magnet:?xt=urn:btih:ca63ec50cf192dbd151633f67d27f93f458d50c8&dn=[javdb.com][Thz.la]hunta-360
 magnet:?xt=urn:btih:b9b1662265a4847d5644f8c5d026cddb79303426&dn=[javdb.com][Thz.la]hunta-364
+magnet:?xt=urn:btih:9fbae772c529c5db9903f87450aafd40f0b58865&dn=[javdb.com]Carib-022418-610-FHD.torrent
+magnet:?xt=urn:btih:4836c24ad33bb42efc20d573f2b25b101e9e9186&dn=[javdb.com]huntc-124.torrent
