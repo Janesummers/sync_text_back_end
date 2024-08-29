@@ -13,3 +13,14 @@ magnet:?xt=urn:btih:36440ebbba9c760dd3d2a6a78f1f13f594bfceb5&dn=[javdb.com]SCOP-
 magnet:?xt=urn:btih:13863bec2b953e45b9da75b013fd5ee460418418&dn=[javdb.com]MDBK-292-C.torrent
 magnet:?xt=urn:btih:d1e4a47fcd121ea4a861a5109758e219b8e1266d&dn=[javdb.com]REAL-770
 magnet:?xt=urn:btih:5f9dd6331eefdad73c98d1331a703d1c1d3347b4&dn=[javdb.com]real-734-C.torrent
+magnet:?xt=urn:btih:5cc5f539e3078464f950d89c20d4659da957b698&dn=[javdb.com]mdbk-239-C.torrent
+magnet:?xt=urn:btih:c291e8bce9b68a531f3db4fec4789d260d9f3e37&dn=[javdb.com]MDBK-147.mp4
+magnet:?xt=urn:btih:fd3dfd7b6ca50ff77a2a441e98d311cadcb2322e&dn=[javdb.com]MDBK-116
+magnet:?xt=urn:btih:c7561be1604b6e90f625faf5f796e3d50f1cf9e5&dn=[javdb.com]mdbk-053.torrent
+magnet:?xt=urn:btih:8e3bb5d73e48eb21154a217c558ccffe36c8d319&dn=[javdb.com][168x.me]mdb-921
+magnet:?xt=urn:btih:832b33d70ec6356f2f8b4f8817ebb08e525db4d9&dn=[javdb.com]SCOP-828-C.torrent
+magnet:?xt=urn:btih:c87c409e7d9491b8e808f6f1ad74a98fc397594c&dn=[javdb.com]SCOP-805-C.torrent
+magnet:?xt=urn:btih:4fdcef975f457cc6658ab5cad91564438d51b2ed&dn=[javdb.com]MDBK-278-C.torrent
+magnet:?xt=urn:btih:3fca2776f7f91229c08db6262d9cd0f16e68a98d&dn=[javdb.com]MDBK-272-C.torrent
+magnet:?xt=urn:btih:544bd94ee8c48b58f0c2b19e2aa0707016a81444&dn=[javdb.com]SCOP-790-C.torrent
+magnet:?xt=urn:btih:5f01bd101d1527f97e5ed1e65ef65c03a7832a22&dn=[javdb.com]MDBK-262-C.torrent
