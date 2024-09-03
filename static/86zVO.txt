@@ -2,7 +2,7 @@ github无法提交挂代理：git config --global http.proxy 127.0.0.1:7890
 公司git使用恢复代理：git config --global --unset http.proxy
 
 
-<!-- #!/bin/bash
+#!/bin/bash
 # 将执行结果追加到日志文件
 git add .
 git commit -m "更新文档"
@@ -19,9 +19,9 @@ echo "==========" >> git.log
 
 0 */2 * * * ~/cleanCache.sh
 
-0 */2 * * * ~/cleanCache.sh -->
+0 */2 * * * ~/cleanCache.sh
 
-<!-- #!/bin/bash
+#!/bin/bash
 # 将执行结果追加到日志文件
 cd /home/janesummer/scriptingTools
 echo "准备执行" >> git.log
@@ -31,7 +31,7 @@ git push >> git.log
 # 为方便查看，追加一行日期
 date >> git.log
 # 同样，追加分割线
-echo "==========" >> git.log -->
+echo "==========" >> git.log
 
 
 路由器vpn fancyss - 科学上网离线安装包
