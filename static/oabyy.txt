@@ -11,7 +11,9 @@ magnet:?xt=urn:btih:76af140906e8bd4e723a42226388ceffc8acf3d7&dn=[javdb.com]CEMD-
 
 magnet:?xt=urn:btih:ddecab98b62f6abd076168ddd6899e8e87ed8900&dn=[javdb.com]uzu-013
 
+magnet:?xt=urn:btih:57bdc765be21073f572658b613464f3c0b5eca15&dn=[javdb.com]MIRD-235
 
+magnet:?xt=urn:btih:82bb7984fb8bd8821e856e973dd93b65175d6771&dn=[javdb.com]JUNY-127
 
 
 
