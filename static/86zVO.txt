@@ -72,3 +72,10 @@ codesign --force --deep --sign -
 路由器vpn fancyss - 科学上网离线安装包
 https://github.com/hq450/fancyss_history_package
 
+
+
+https://www.chiens.cn/text/lzQkN
+
+
+
+
