@@ -10,3 +10,6 @@
 (magnet:?xt=urn:btih:ca183efdaad87473c149e133a2aee77b56436a94&dn=[javdb.com]JUQ-830-C.torrent)
 (magnet:?xt=urn:btih:5de7647da34686090f90dca4c191554ed3c09b3e&dn=[javdb.com]SONE-338-C.torrent)
 (magnet:?xt=urn:btih:f582b2b0848df194b3b23ee2a97a76a4ba2df502&dn=[javdb.com]SONE-343-C.torrent)
+(magnet:?xt=urn:btih:8b34d3713b6e4ababf1eac6694f099ee804c18ec&dn=[javdb.com]SONE-347-C.torrent)
+(magnet:?xt=urn:btih:b5ce8cbef4c955c5390fe7ca2d1ce6a5f97febd4&dn=[javdb.com]VENZ-015-C.torrent)
+(magnet:?xt=urn:btih:aabc64de3fe891b9c4e67dbf5dc55f310b09b6f1&dn=[javdb.com]carib-091124-001-FHD)
