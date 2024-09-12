@@ -13,3 +13,5 @@
 (magnet:?xt=urn:btih:8b34d3713b6e4ababf1eac6694f099ee804c18ec&dn=[javdb.com]SONE-347-C.torrent)
 (magnet:?xt=urn:btih:b5ce8cbef4c955c5390fe7ca2d1ce6a5f97febd4&dn=[javdb.com]VENZ-015-C.torrent)
 (magnet:?xt=urn:btih:aabc64de3fe891b9c4e67dbf5dc55f310b09b6f1&dn=[javdb.com]carib-091124-001-FHD)
+(magnet:?xt=urn:btih:66dd9fa429f0bd731de3170b6242f4eb0574a563&dn=[javdb.com]081424-001-carib-1080p.mp4)
+(magnet:?xt=urn:btih:e14f6b76f8701f8d5dd934de065302b6a5364ac8&dn=[javdb.com]SGSR-356)
