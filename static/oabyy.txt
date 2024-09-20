@@ -4,3 +4,4 @@
 (magnet:?xt=urn:btih:2e673dfa5205aed5645c72854ba93b2f717ab80c&dn=[javdb.com]261ARA-579.torrent)
 (magnet:?xt=urn:btih:bc72e8982f7cfb237d5c953cd93b13ed2ea7cd41&dn=[javdb.com]ARA-576)
 (magnet:?xt=urn:btih:b14b456d4dbdf975b1b7e98078ddcb996710360c&dn=[javdb.com]ARA-575)
+(magnet:?xt=urn:btih:ea4dd6feb63a1fef23b88b43950d8cce6f1ec742&dn=[javdb.com]ARA-572)
