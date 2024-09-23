@@ -1,0 +1,14 @@
+https://www.vidjuice.com/unitube-video-downloader/
+
+HomeAssistant 控制pc开关机
+https://www.bilibili.com/read/cv33859165/?jump_opus=1
+
+使用Home Assistant远程控制电脑开关机
+https://www.bilibili.com/read/cv36493293/?jump_opus=1
+
+soundsource
+https://rogueamoeba.com/soundsource/
+
+大屏可视化适配方案
+https://blog.csdn.net/m0_67350312/article/details/132628292
+
