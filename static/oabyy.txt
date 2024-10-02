@@ -1,6 +1,0 @@
-(magnet:?xt=urn:btih:d06b16c64e40b73654b91a804dfcf23e29d1cd00&dn=[javdb.com]SSIS-978-C.torrent)
-(magnet:?xt=urn:btih:617bd48e8604dff738eaef796ba1d6d8e15ee1c9&dn=[javdb.com]JUQ-880-C.torrent)
-(magnet:?xt=urn:btih:206ec1b0597849f710ed9f9f74543a7be6f81b7a&dn=[javdb.com]JUQ-080)
-(magnet:?xt=urn:btih:3f9a195b44df6d1fd3880627caa2208a8b39eb60&dn=[javdb.com]jul-880-C.torrent)
-(magnet:?xt=urn:btih:b8d1ae17478efb316fdd094cd2a61b039f6e7d02&dn=[javdb.com]juc-880-C.torrent)
-(magnet:?xt=urn:btih:c32ecc103d0ef115d151710c6a42a1e0ee16b3e9&dn=[javdb.com]DLDSS-313-C.torrent)
