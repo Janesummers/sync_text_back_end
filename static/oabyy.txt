@@ -39,3 +39,4 @@
 (magnet:?xt=urn:btih:e675fc1afc00fc1e483ab280cc9578c33db2b658&dn=[javdb.com]IPZZ-333-C.torrent)
 (magnet:?xt=urn:btih:3919069f408afadbdb970f830d68476c197fc7a5&dn=[javdb.com]IPZZ-280-C.torrent)
 (magnet:?xt=urn:btih:662c92f39f8771477f700bbcf39d7fc9d53534a1&dn=[javdb.com]IPZZ-260-C.torrent)
+(magnet:?xt=urn:btih:59d832c2f1d74ed2f32eb73b28513038127d2b8d&dn=[javdb.com]dass-488)
