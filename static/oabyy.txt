@@ -20,3 +20,8 @@
 (magnet:?xt=urn:btih:7a09d500b10b0cded7bf7cede9e1def12d163f31&dn=[javdb.com]SSIS-636-C.torrent)
 (magnet:?xt=urn:btih:c3d8de7b215e18a6bfb656c17e599ef6e249b152&dn=[javdb.com]SSIS-628-C.torrent)
 (magnet:?xt=urn:btih:ef1ebefa1445e19e395c663d5d3169fdcca976bb&dn=[javdb.com]SSIS-726-C.torrent)
+(magnet:?xt=urn:btih:69b36423f636d63471647a32f266c9d07c7bc527&dn=[javdb.com]ROYD-199-C.torrent)
+(magnet:?xt=urn:btih:9aabd79e6f5e4f24c9217d9bc1a7e069ec66aabd&dn=[javdb.com]ROYD-141-C.torrent)
+(magnet:?xt=urn:btih:6c3c3932d977f42e95de75e1723b0e1c94d82222&dn=[javdb.com]PRED-441)
+(magnet:?xt=urn:btih:b09f1840fe9064eb299defed9af7eb1db346a8b6&dn=[javdb.com][Thz.la]pred-041)
+(magnet:?xt=urn:btih:54f52fb93fc489e117ca42d0a99049686dd1dfe7&dn=[javdb.com][22sht.me]PRED-141-C.torrent)
