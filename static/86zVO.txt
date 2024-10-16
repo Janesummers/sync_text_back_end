@@ -1,4 +1,4 @@
-github无法提交挂代理（clash解决）：git config --global http.proxy 127.0.0.1:7890
+github无法提交挂代理（clash解决）：git config --global http.proxy 127.0.0.1:7890（端口号不一定是7890）
 公司git使用恢复代理：git config --global --unset http.proxy
 
 npm依赖卡住（clash解决）
