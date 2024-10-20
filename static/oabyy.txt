@@ -6,3 +6,7 @@
 (magnet:?xt=urn:btih:c656b05a1370225518a7212d992f845bee3e2691&dn=[javdb.com]royd-071.torrent)
 (magnet:?xt=urn:btih:be5b7fbf8029037d2970c58ed739c561435a4095&dn=[javdb.com]royd-030-C.torrent)
 (magnet:?xt=urn:btih:e0fe72aa1e553508bba2527f77e871f17a70d622&dn=[javdb.com]MIDV-751-C.torrent)
+(magnet:?xt=urn:btih:ea6407c5e09ea403f0b23eb15487b29f65a439b0&dn=[javdb.com]WAAA-429-C.torrent)
+(magnet:?xt=urn:btih:6b98e14e2059fd4d0037a503f0a48b1c76a56e5d&dn=[javdb.com]BF-720-C.torrent)
+(magnet:?xt=urn:btih:0a7b81ea98bcbf09af887b7e7da19a78792d2dfc&dn=[javdb.com]ADN-588-C.torrent)
+(magnet:?xt=urn:btih:19dfb02aa7c9229284c0a5b8b7e37249e25943e1&dn=[javdb.com]MIAB-270-C.torrent)
