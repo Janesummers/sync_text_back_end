@@ -9,6 +9,9 @@ npm config set https-proxy http://127.0.0.1:7890
 npm config delete proxy
 npm config delete https-proxy
 
+brew 一次性代理
+export ALL_PROXY=socks5://127.0.0.1:7890
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 SXF(垃圾玩意)：4wbr-HCjf-XEvH
