@@ -14,3 +14,4 @@
 (magnet:?xt=urn:btih:21c0356cf76cd4cf508a82ba7e7bf91def7c8ae8&dn=[javdb.com][7sht.me]MIAA-033-C.torrent)
 (magnet:?xt=urn:btih:e459361e38015052e84b4413abb22efb663efed9&dn=[javdb.com]JUQ-816-C.torrent)
 (magnet:?xt=urn:btih:9c80b1932bf16137e550f2b3f0ece2c468e1592c&dn=[javdb.com]DASS-434-C.torrent)
+(magnet:?xt=urn:btih:02029e08a8febc5ac8b20f8c35339c807fa0b621&dn=[javdb.com]JUQ-897-C.torrent)
