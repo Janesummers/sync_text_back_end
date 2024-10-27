@@ -10,3 +10,7 @@
 (magnet:?xt=urn:btih:574e860efbf0add84916ed2d8821e28056d2f7ca&dn=[javdb.com]PED-039-C.torrent)
 (magnet:?xt=urn:btih:325a26eca25b60ca3259bdf47e1113ab45323b81&dn=[javdb.com]PPPE-184-C.torrent)
 (magnet:?xt=urn:btih:c46d902cd2d7b14d5b1a752080cef994ab1d787f&dn=[javdb.com]EKDV-734-C.torrent)
+(magnet:?xt=urn:btih:9561a3e274d7efdd7ac879279573a67fbb2ad40b&dn=[javdb.com]miab-203.torrent)
+(magnet:?xt=urn:btih:21c0356cf76cd4cf508a82ba7e7bf91def7c8ae8&dn=[javdb.com][7sht.me]MIAA-033-C.torrent)
+(magnet:?xt=urn:btih:e459361e38015052e84b4413abb22efb663efed9&dn=[javdb.com]JUQ-816-C.torrent)
+(magnet:?xt=urn:btih:9c80b1932bf16137e550f2b3f0ece2c468e1592c&dn=[javdb.com]DASS-434-C.torrent)
