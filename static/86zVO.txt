@@ -18,6 +18,14 @@ SXF(垃圾玩意)：4wbr-HCjf-XEvH
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+vue3 开发使用插件
+https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
+
+vue2 开发使用插件
+https://chromewebstore.google.com/detail/vuejs-devtools-v5/hkddcnbhifppgmfgflgaelippbigjpjo
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 #!/bin/bash
 # 将执行结果追加到日志文件
 git add .
