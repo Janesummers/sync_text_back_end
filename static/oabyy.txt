@@ -11,3 +11,8 @@
 (magnet:?xt=urn:btih:5f428fd60b57a91c25627d5bda99ef8db43eb195&dn=[javdb.com]STARS-992-C.torrent)
 (magnet:?xt=urn:btih:15ceffb36303e36ecb0260ef900a5ca104e7a6d4&dn=[javdb.com]ADN-571-C.torrent)
 (magnet:?xt=urn:btih:410c5c19a9a59700c1e24d4f540ad7298702040a&dn=[javdb.com]ADN-171-C.torrent)
+(magnet:?xt=urn:btih:c227799c0ef13425b1800240bf26c308be5b5ac0&dn=[javdb.com]SSIS-741-C.torrent)
+(magnet:?xt=urn:btih:ab7abd41119642f7b8016e233998b55c812e2bbb&dn=[javdb.com]ssis-041-C.torrent)
+(magnet:?xt=urn:btih:58bf6ef8385d0b59bd3d875d42454da05295bae8&dn=[javdb.com][22sht.me]ssni-499-C.torrent)
+(magnet:?xt=urn:btih:6cd02ea593812aa0a68d58d7dc8d90aa9db3a723&dn=[javdb.com]SSNI-388-C.torrent)
+(magnet:?xt=urn:btih:9fc2b32082cc299a530f58eb02ef7fa8e75a3eab&dn=[javdb.com]SONE-224-C.torrent)
