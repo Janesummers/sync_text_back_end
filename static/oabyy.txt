@@ -8,3 +8,8 @@
 (magnet:?xt=urn:btih:a05595dbb7ad2448d2809bfab4dba44e2431fdf9&dn=[javdb.com]docp-262.torrent)
 (magnet:?xt=urn:btih:4bcb15d1ae8704527cb1e58486e518d5e7c222c8&dn=[javdb.com]MTALL-053)
 (magnet:?xt=urn:btih:77f1da90778898fa353bfb1e5add1ed6e45fcceb&dn=[javdb.com]mtall-009.torrent)
+(magnet:?xt=urn:btih:0d0880b406dfcffccee8aafc2970e24a0f4acf9f&dn=[javdb.com]MUDR-286-C.torrent)
+(magnet:?xt=urn:btih:be3ee89a6ddae688aa4ff6b5f5d57b9e56cdd87e&dn=[javdb.com]PRED-715-C.torrent)
+(magnet:?xt=urn:btih:1b8c672fbb5b5aa27b9783897e2f550b3c390430&dn=[javdb.com]MIAB-317-C.torrent)
+(magnet:?xt=urn:btih:2b0769d0ee1365568be83acc67066e42e56052fc&dn=[javdb.com]MIAB-301-C.torrent)
+(magnet:?xt=urn:btih:7184f1eb2926b2147bbcb1fe57ba4e845439d509&dn=[javdb.com]PRED-716-C.torrent)
