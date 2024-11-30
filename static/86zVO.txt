@@ -118,5 +118,6 @@ https://github.com/hq450/fancyss_history_package
 https://www.chiens.cn/text/lzQkN
 
 
-
+本地文件记录
+split(/\n|\t/).filter(item => item).map(item => (item.match(/.+(?=\.)/) ? item.match(/.+(?=\.)/)[0] : item))
 
