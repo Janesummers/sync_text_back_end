@@ -121,3 +121,7 @@ https://www.chiens.cn/text/lzQkN
 本地文件记录
 split(/\n|\t/).filter(item => item).map(item => (item.match(/.+(?=\.)/) ? item.match(/.+(?=\.)/)[0] : item))
 
+ls不显示文件扩展
+ls -1 | sed -e 's/\.[^\.]*$//'
+
+
