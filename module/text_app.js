@@ -28,7 +28,7 @@ app.get('/create', (req, resp) => {
   writeRecord.create(req, resp);
 })
 
-app.post('/write', (req, resp) => {
+app.all('/write', (req, resp) => {
   writeRecord.write(req, resp);
 })
 

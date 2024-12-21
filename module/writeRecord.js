@@ -4,8 +4,14 @@ const msgResult = require('./msgResult');
 const qs = require('qs');
 
 let write = (req, resp) => {
+  let param = null
+  if (req.method == "POST") {
+    param = req.body;
+  } else{
+    param = req.query || req.params; 
+  }
   let id = req.query.id;
-  let data = qs.parse(req.body).data;
+  let data = qs.parse(param).data;
   let files = fs.readdirSync(path.join(__dirname, '../static'));
 
   if (id) {
