@@ -54,5 +54,11 @@ grab4k.org
 vip.grab4k.com
 ------------------------
 
+远程桌面
+https://cloud.tencent.com/developer/article/2399206
+https://lzw.me/a/windows-mac-remote-desktop.html
+https://www.v2ex.com/t/915890
+
+
 
 
